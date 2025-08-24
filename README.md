@@ -23,7 +23,7 @@ Está desarrollado con **HTML, CSS y JavaScript**, pensado para practicar **lóg
 ##  Cómo usarlo
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/TU_USUARIO/amigo-secreto.git
+   git clone https://github.com/TU_USUARIO/ChallengeAmigoSecreto.git
 Abre el archivo index.html en tu navegador.
 
 Agrega nombres y haz clic en "Añadir".
