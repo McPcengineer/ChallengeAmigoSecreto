@@ -21,4 +21,3 @@ Está desarrollado con **HTML, CSS y JavaScript**, pensado para practicar **lóg
 
 ---
 
-## 📂 Estructura del proyecto
