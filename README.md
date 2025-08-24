@@ -20,4 +20,12 @@ Está desarrollado con **HTML, CSS y JavaScript**, pensado para practicar **lóg
 - **JavaScript (Vanilla)** → lógica del sorteo y manejo del DOM.
 
 ---
+##  Cómo usarlo
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/TU_USUARIO/amigo-secreto.git
+Abre el archivo index.html en tu navegador.
 
+Agrega nombres y haz clic en "Añadir".
+
+Cuando la lista esté lista, presiona "Sortear amigo" 🎉.
